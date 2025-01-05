@@ -1,5 +1,5 @@
 # Millie Bay @25mb-git
-- 🏫 Student at British School in Tokyo
+- 🏫 High school student at British School in Tokyo
 - ❤️ Interest in inter-disciplinary ART and Technology
 - 🎨 Art portfolio [https://mac-mini.boga-vector.ts.net]
 - LLM Chatbot Projects
