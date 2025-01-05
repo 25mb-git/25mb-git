@@ -3,6 +3,6 @@
 - ❤️ Interest in inter-disciplinary ART and Technology
 - 🎨 Art portfolio [https://mac-mini.boga-vector.ts.net]
 - LLM Chatbot Projects
-  - https://mac-mini.boga-vector.ts.net/mistral
-  - https://mac-mini.boga-vector.ts.net/openai
+  - Mistral-7B https://mac-mini.boga-vector.ts.net/mistral
+  - OpenAI https://mac-mini.boga-vector.ts.net/openai
 - 📫 You can reach me 25mb-git@gmail.com
