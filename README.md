@@ -1,8 +1,8 @@
-# Millie Bay @25mb-git
-- 🏫 High school student at British School in Tokyo
-- ❤️ Interest in inter-disciplinary ART and Technology
-- 🎨 Art portfolio [https://mac-mini.boga-vector.ts.net]
-- LLM Chatbot Projects
-  - Mistral-7B https://mac-mini.boga-vector.ts.net/mistral
-  - OpenAI https://mac-mini.boga-vector.ts.net/openai
-- 📫 You can reach me 25mb-git@gmail.com
+# **Millie Bay (@25mb-git)**  
+- 🎓 **High School Student** at the British School in Tokyo  
+- 🎨 Passionate about **Interdisciplinary Art and Technology**  
+- 🖼️ **Art Portfolio**: [View my work](https://mac-mini.boga-vector.ts.net)  
+- 🤖 **LLM Chatbot Projects**:  
+  - **Mistral-7B**: [Explore the chatbot](https://mac-mini.boga-vector.ts.net/mistral)  
+  - **OpenAI**: [Explore the chatbot](https://mac-mini.boga-vector.ts.net/openai)  
+- 📬 **Get in Touch**: [25mb-git@gmail.com](mailto:25mb-git@gmail.com)  
