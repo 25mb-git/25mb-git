@@ -5,5 +5,6 @@
 - 🤖 **LLM Chatbot Projects**:  
   - **Mistral-7B**: [Explore the chatbot](https://mac-mini.boga-vector.ts.net/mistral)  
   - **OpenAI**: [Explore the chatbot](https://mac-mini.boga-vector.ts.net/openai)  
-- 🌐 **Blog Project**: [my project](https://github.com/25mb-git/art-gallery)
+- 🌐 **Blog coded in Python**: [my project](https://github.com/25mb-git/art-gallery)
+- 📝 **Medium Article** [Medium](https://medium.com/p/6bae3cb69365)
 - 📬 **Get in Touch**: [25mb-git@gmail.com](mailto:25mb-git@gmail.com)  
